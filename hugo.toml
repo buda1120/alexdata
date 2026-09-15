@@ -1,0 +1,4 @@
+baseURL = 'https://buda1120.github.io.alexdata/'
+locale = 'zh-cn'
+title = '四月日出的博客'
+theme = "PaperMod"
